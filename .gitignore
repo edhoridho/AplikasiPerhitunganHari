@@ -22,3 +22,11 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+/dist/
+build/built-jar.properties
+build/classes/aplikasiperhitunganhari/HitungHariFrame.form
+src/aplikasiperhitunganhari/HitungHariFrame.form
+build/classes/aplikasiperhitunganhari/HitungHariFrame.form
+src/aplikasiperhitunganhari/HitungHariFrame.form
+build/classes/aplikasiperhitunganhari/HitungHariFrame.form
+src/aplikasiperhitunganhari/HitungHariFrame.form
